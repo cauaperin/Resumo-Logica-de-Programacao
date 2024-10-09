@@ -11,7 +11,7 @@ Percebe-se como é importante a ordem aqui? Se por acaso nós trocássemos de lu
 
 exemplo utilizado no site [tldraw](https://www.tldraw.com/)
 
-[Fluxograma](https://i.imgur.com/BoEW7u9.png)
+(https://i.imgur.com/BoEW7u9.png)
 
 ## 📦| Variáveis
 Variáveis são utilizadas para armazenar valores que podem mudar ao longo da execução de um programa. Pense nelas como caixas que podem guardar diferentes tipos de informações.
@@ -71,7 +71,7 @@ print(estoque_de_comida[1][2])
 Caso você queira buscar onde está o tomate nessa matriz acessamos a segunda linha`[1]` e a terceira coluna`[2]` da matriz, onde o "tomate" está localizado. 🍅(Lembrando que começamos a contar a partir do 0)
 
 Para ter uma melhor noção veja essa imagem:
-[Estoque de Comida](https://i.imgur.com/s33amtS.png)
+(https://i.imgur.com/s33amtS.png)
 
 ## 🔁| Estruturas de Controle
 As estruturas de controle (condicionais e loops) determinam o fluxo de execução do programa:
