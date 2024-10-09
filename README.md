@@ -9,9 +9,11 @@ Percebe-se como é importante a ordem aqui? Se por acaso nós trocássemos de lu
 ## 📊| Fluxograma
 É uma representação visual para colocar em prática um pensamento lógico, eles são ótimos para simplificar e visualizar procedimentos complexos, permitindo identificar gargalos ou melhorias.
 
-exemplo utilizado no site [tldraw](https://www.tldraw.com/)
+exemplo feito no site [tldraw](https://www.tldraw.com/)
 
-(https://i.imgur.com/BoEW7u9.png)
+<p align = "center" >
+<img src = "https://i.imgur.com/BoEW7u9.png" width ="800"/>
+</p>
 
 ## 📦| Variáveis
 Variáveis são utilizadas para armazenar valores que podem mudar ao longo da execução de um programa. Pense nelas como caixas que podem guardar diferentes tipos de informações.
@@ -68,10 +70,11 @@ estoque_de_comida = [
 # Buscando a comida tomate na matriz
 print(estoque_de_comida[1][2])
 ```
-Caso você queira buscar onde está o tomate nessa matriz acessamos a segunda linha`[1]` e a terceira coluna`[2]` da matriz, onde o "tomate" está localizado. 🍅(Lembrando que começamos a contar a partir do 0)
+Caso você queira buscar onde está o tomate nessa matriz acessamos a segunda linha`[1]` e a terceira coluna`[2]` da matriz, onde o "tomate" está localizado. 🍅(Lembrando que começamos a contar a partir do 0). **Para ter uma melhor noção veja a imagem abaixo:** 
 
-Para ter uma melhor noção veja essa imagem:
-(https://i.imgur.com/s33amtS.png)
+<p align = "center">
+<img src = "https://i.imgur.com/QlyHlfW.png" width = "700" />
+</p>
 
 ## 🔁| Estruturas de Controle
 As estruturas de controle (condicionais e loops) determinam o fluxo de execução do programa:
